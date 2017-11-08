@@ -1,2 +1,2 @@
 # KotlinCurrentLatLng
-Current Latitude and Longitude
+Getting Current Latitude and Longitude using Fused Location Api
